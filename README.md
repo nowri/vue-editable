@@ -1,5 +1,7 @@
 # vue-editable
 
+Adds Tab-able feature horizontally
+
 基于vuejs的快速可编辑插件,QQ讨论群: 240319632。
 
  
